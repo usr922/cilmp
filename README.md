@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ### 1. Training
 
 ```bash
-bash scripts/train.sh
+bash scripts/train.sh ${DATASET}
 ```
 
 
@@ -28,7 +28,7 @@ bash scripts/train.sh
 ### 2. Validation
 
 ```bash
-bash scripts/eval.sh
+bash scripts/eval.sh ${DATASET}
 ```
 
 
