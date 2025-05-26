@@ -14,9 +14,6 @@ pip install -r requirements.txt
 ```
 
 
-## Data Preparation
-
-Follow each public dataset in the paper for preparation.
 
 ## Usage
 
