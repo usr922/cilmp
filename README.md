@@ -37,5 +37,5 @@ bash scripts/eval.sh
 
 ## Acknowledgement
 
-We sincerely thank Prof. Kaiyang Zhou for the great work [CoOp](https://github.com/KaiyangZhou/CoOp) and Dr. Muhammad Uzair Khattak for the great work [PromptSRC](https://github.com/muzairkhattak/PromptSRC). We borrow codes heavily from their repositories.
+We sincerely thank Prof. Kaiyang Zhou for the great work [CoOp](https://github.com/KaiyangZhou/CoOp), [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorch) and Dr. Muhammad Uzair Khattak for the great work [PromptSRC](https://github.com/muzairkhattak/PromptSRC). We borrow codes heavily from their repositories.
 
